@@ -1,0 +1,6 @@
+{
+    "led.ledConfig|block": "设置LED灯闪烁时间为[N]秒",
+    "led.ledStart|block": "LED灯开始闪烁",
+    "led.SIZE.1|menu": "29*29(1)",
+    "led.SIZE.2|menu": "58*58(2)"
+}
