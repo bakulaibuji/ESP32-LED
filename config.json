@@ -12,7 +12,7 @@
   "license": "MIT",
   "isBoard": false,
   "id": "LED",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "platform": [
     "win",
     "mac",
@@ -21,7 +21,7 @@
   "asset": {
     "arduinoC": {
       "dir": "arduinoC/",
-      "version": "1.0.0",
+      "version": "1.0.2",
       "board": [
         "firebeetleesp32"
       ],
