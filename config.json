@@ -1,17 +1,17 @@
 {
   "name": {
     "zh-cn": "LED模块",
-    "en": "OTA upload module"
+    "en": "LED modular"
   },
   "description": {
     "zh-cn": "该模块用于进行ESP32(FireBettle)的亮灯测试",
-    "en": "OTA upload module"
+    "en": "LED modular"
   },
   "author": "CoCube",
   "email": "me_wyx@sjtu.edu.cn",
   "license": "MIT",
   "isBoard": false,
-  "id": "OTA",
+  "id": "LED",
   "version": "1.0.0",
   "platform": [
     "win",
